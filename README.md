@@ -9,7 +9,7 @@ It highlights different shoe styles with a clean design and smooth hover effects
 - Fully responsive layout  
 - Modern and minimal design  
 - Hover effects for shoes  
-- Easy-to-understand code — perfect for beginners  
+- Easy-to-understand code - perfect for beginners  
 
 
 🧠 Technologies Used
